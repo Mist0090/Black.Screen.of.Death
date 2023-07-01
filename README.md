@@ -1,5 +1,8 @@
 # Black.Screen.of.Death
 Black.Screen.of.█████
+このジョークソフトは、エンターテイメント目的で作成されたものです。 実行する際は必ず自己責任でお願いします。 作成者は一切責任を負いません。
+また、管理者権限を要求しますが特にお使いのコンピュータに支障はありません。
+もし、心配でしたら仮想環境での実行をお勧めします
 
 # YouTube
 [Original Video](https://www.youtube.com/watch?v=o8XMgBW-bIE)
